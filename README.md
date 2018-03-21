@@ -1,2 +1,3 @@
 # Front-End
-Code practice for front-end concepts
+
+Repository contains code I am writing to revise and improvise my front-end skills and knowledge.
