@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Headers Quiz</title>
+ </head>
+
+<body>
+<p>Headers: </p>
+<h1>Biggest</h1>
+<h2>Smaller 2</h2>
+<h3>even small</h3>
+<h4>Comparatively smallest</h4>
+<p></p>
+
+<p>list</p>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+
+
+
+</body>
+
+</html>
