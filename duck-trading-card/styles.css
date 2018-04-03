@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+#facts
+{
+    font-style: italic ;
+}
+
+.labels
+{
+   font-weight: bold;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+#main
+{
+    border: solid;
+}
+
+#info
+{
+    border: solid;
+    padding: 1em;
+}
+
+h3
+{
+    padding: 1em;
+}
+
+img
+{
+    padding: 1em;
+}
