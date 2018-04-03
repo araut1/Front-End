@@ -1,1 +1,21 @@
 
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Style the Font Quiz</title>
+    <style>
+    	.doug-text {
+            /* add CSS here */
+            color:#8001ff;
+            font-family: Helvetica, Arial, sans-serif;
+            text-decoration: underline;
+            text-transform: uppercase;
+            font-size: 60px;
+    	}
+    </style>
+</head>
+<body>
+    <h1 class="doug-text">doug</h1>
+</body>
+</html>
