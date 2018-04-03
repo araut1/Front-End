@@ -24,3 +24,14 @@ console.log(joke);
 var thingOne ="red";
 var thingTwo  ="blue";
 console.log(thingOne + " "+ thingTwo);
+
+var bill = 10.25 + 3.99 + 7.15; 
+var tip = bill * 0.15;
+var total = bill + tip;
+console.log("$"+total.toFixed(2));
+
+var firstName = "Julia";
+var interest = "cats";
+var hobby = "play video games";
+var awesomeMessage = "Hi, my name is "+firstName+". I love "+interest+". In my spare time, I like to "+hobby+"." ;
+console.log(awesomeMessage);
