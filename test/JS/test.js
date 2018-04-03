@@ -13,3 +13,14 @@ var celsius = 12;
 var fahrenheit = celsius * 1.8 + 32;
 
 console.log(/* print out result here */fahrenheit);
+
+/*
+ * Programming Quiz: All Tied Up (2-5)
+ */
+
+var joke = "Why couldn\'t the shoes go out and play? \nThey were all \"tied\" up!"
+console.log(joke);
+
+var thingOne ="red";
+var thingTwo  ="blue";
+console.log(thingOne + " "+ thingTwo);
