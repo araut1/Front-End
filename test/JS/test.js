@@ -62,6 +62,17 @@ else {
 console.log("this is a large group");
 }
 
+var eatsPlants = false;
+var eatsAnimals = true;
 
+var category = (eatsPlants ? (eatsAnimals ? "omnivore" : "herbivore") : (eatsAnimals ? "carnivore": ""));
+
+// "herbivore" if an animal eats plants
+// "carnivore" if an animal eats animals
+// "omnivore" if an animal eats plants and animals
+// undefined if an animal doesn't eat plants or animals
+
+
+console.log(category);
 
 
