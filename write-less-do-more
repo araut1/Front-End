@@ -1,1 +1,9 @@
 
+var listElements;
+
+listElements = $('li');
+
+console.log(listElements);
+
+
+
