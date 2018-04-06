@@ -7,3 +7,7 @@ console.log(listElements);
 
 
 
+var articleItems;
+
+articleItems =  $(".article-item");
+console.log(articleItems);
