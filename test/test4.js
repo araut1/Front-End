@@ -38,6 +38,8 @@ emotions("happy", function laugh(num){
 var udaciFamily = ["Julia","James","dfs"];
 
 for(var i=0;i<=2;i++)
+  
+  
 {
     console.log(udaciFamily[i]);
 }
