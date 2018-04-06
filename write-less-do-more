@@ -11,3 +11,12 @@ var articleItems;
 
 articleItems =  $(".article-item");
 console.log(articleItems);
+
+
+
+
+
+var nav;
+
+nav =  $(".article-item");
+console.log(nav);
