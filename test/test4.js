@@ -1,7 +1,3 @@
-/*
- * Programming Quiz: Cry (5-5)
- */
-
 // your code goes here
 var cry = function sad()
 {
@@ -40,3 +36,12 @@ emotions("happy", function laugh(num){
     }  
     return ha + "!";
 });
+
+
+
+var udaciFamily = ["Julia","James","dfs"]
+
+for(var i=0;i<=2;i++)
+{
+    console.log(udaciFamily[i]);
+}
