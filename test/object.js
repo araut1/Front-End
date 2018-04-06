@@ -25,7 +25,6 @@ var umbrella = {
 
 
 
-
 var facebookProfile = {
   name: "Natalie Cyreus",
   friends: 927,
