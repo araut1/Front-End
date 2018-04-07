@@ -5,7 +5,7 @@ listElements = $('li');
 
 console.log(listElements);
 
-
+/////////////////////////////////////////////////////////
 
 var articleItems;
 
@@ -13,7 +13,7 @@ articleItems =  $(".article-item");
 console.log(articleItems);
 
 
-
+/////////////////////////////////////////////////////////////////////////////
 
 
 var nav;
@@ -29,13 +29,7 @@ featuredArticle = $(".featured").toggleClass("featured");
 
 
 
-
-/*
-For this quiz, remove the class 'featured' from Article #2 and add it to Article #3!
-
-You must use jQuery's toggleClass method!
-*/
-
+///////////////////////////////////////////////////////////////////////////////
 // don't change these variable!
 var article2, article3;
 
@@ -45,3 +39,12 @@ article3 = article2.next();
 
 article2.toggleClass("featured");
 article3.toggleClass("featured");
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+// Start with this variable!
+var navList;
+
+navList = $(".nav-list").children().first().find('a').attr("href","#1");
