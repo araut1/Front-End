@@ -20,3 +20,8 @@ var nav;
 
 nav =  $(".article-item");
 console.log(nav);
+
+
+var featuredArticle;
+
+featuredArticle = $(".featured").toggleClass("featured");
