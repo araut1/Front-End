@@ -6,3 +6,13 @@ $('#input').on('change', function() {
 });
 
 //////////////////////////////////////////////////////////////////
+
+
+
+
+var articleItems, ul;
+
+articleItems = $('.article-item');
+
+ul = articleItems.find('ul'); 
+ul.remove();
